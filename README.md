@@ -29,7 +29,7 @@ You can use Featureform
 If you need help:
 
 1. Refer to our FAQs: We've compiled a list of frequently asked questions.
-2. Post your queries on the event's [Slack channel](link)
+2. Post your queries in #spons-featureform
 3. Directly contact the mentors in #spons-featureform
 
 ## Filing a Github Issue
