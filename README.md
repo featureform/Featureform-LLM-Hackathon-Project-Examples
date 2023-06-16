@@ -1,6 +1,12 @@
-# LLM-Hackathon-Project-Examples
+# Featureform-LLM-Hackathon-Project-Examples
 
 Welcome, Cal Hacks Community!
+
+## Featureform and LLMs
+Large Language Models (LLMs), like GPT-3, are powerful AI tools that generate responses based on text inputs. The better the context or information you feed into them, the better they perform. Whether you're refining your question or fine-tuning the LLM, remember: the secret sauce is in the quality of the data!
+
+Featureform is your ultimate helper at this hackathon. Think of it as a magical tool that makes handling complex vector databases (a key part of working with LLMs) a breeze. It lets you deploy, scale, and manage these databases easily, giving you more time to focus on building your project. Plus, it cuts down on the tricky parts of the LLM data pipeline and helps manage and track your data changes. Best of all, it promotes team collaboration and keeps your project data up-to-date, automatically processing and embedding new data as it comes in. Now, you can concentrate on the fun part - hacking away!
+
 
 
 ## Example Projects
