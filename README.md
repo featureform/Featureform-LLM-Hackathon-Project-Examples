@@ -31,7 +31,7 @@ If you need help:
 
 Should you encounter any bugs or issues:
 
-1. Go to the "Issues" tab [here]()
+1. Go to the "Issues" tab [here](https://github.com/featureform/featureform/issues)
 2. Click on "New Issue".
 3. Provide a descriptive title and detailed explanation of the issue. If possible, provide the steps to reproduce the bug.
 4. Label your issue accordingly (e.g., "bug").
@@ -41,7 +41,7 @@ Should you encounter any bugs or issues:
 
 Contributions are highly appreciated!
 
-1. Fork this repo.
+1. Fork the [Featureform Repo](https://github.com/featureform/featureform)
 2. Make your changes/improvements in your forked repo.
 3. Submit a Pull Request (PR) detailing the changes you made.
 
