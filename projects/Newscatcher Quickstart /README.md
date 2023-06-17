@@ -42,7 +42,9 @@ HUGGING_FACE_TOKEN=
 
 ## Getting Started with the Project 🚀
 
-1. **Register the Newscatcher Data as Source**: With Featureform, register the Newscatcher dataset as your data source.
+1. **Register the Newscatcher Data as Source** 
+
+With Featureform, register the Newscatcher dataset as your data source.
 
 ```python
 import pandas as pd
@@ -77,6 +79,7 @@ news = local.register_file(
 
 
 ### Create an instance of the Featureform client and apply the changes
+
 We'll be using client after each step to apply our changes and checkpoint our work.
 
 ```python
@@ -93,6 +96,7 @@ Use the CLI command to check
 ```
 
 2. **Register Transformations**
+
 Given the size of the Newscatcher dataset, we'll limit the context we'll create embeddings for to only science-related articles. Once we've filtered by the topic, we'll use [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) to create embeddings of the article titles so we can perform searches on them later.
 
 ```python
@@ -118,6 +122,7 @@ client.apply()
 ```
 
 3. **Register Entity and Feature**
+
 We'll now register an entity and a feature, which will kick off the materialization process.
 
 NOTE: This may take some time to complete. See the progress bar for status.
@@ -159,6 +164,7 @@ client.apply()
 ```
 
  5. **Serve Features for Semantic Search**
+
 Now we'll query the vector database via our on-demand feature.
 
  ```python
