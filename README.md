@@ -9,15 +9,13 @@ Featureform is your ultimate helper at this hackathon. It's like a magical wand 
 
 ## 📚 Example Projects
 
-Here are three example projects to get you started:
+Here are two example projects to get you started:
 
 1. [**Q&A Bot**](https://github.com/featureform/LLM-Hackathon-Project-Examples/tree/main/projects/Q%26A%20Chatbot)
-    - **Stack**: Featureform, OpenAI, Databricks, Azure, Redis, Spark
+    - **Stack**: Featureform, OpenAI, HuggingFace, Pinecone
 
 2. [**Newscaster Article Search Engine**](https://github.com/featureform/LLM-Hackathon-Project-Examples/tree/shab/project-files/projects/Newscatcher%20Quickstart%20): 
     - **Stack**: Pandas, Pinecone, Featureform
-
-3. **Podcast Topic Generator**: 
 
 ## 🆘 Getting Help
 
